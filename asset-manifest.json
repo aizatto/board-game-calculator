@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/board-game-calculator/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/board-game-calculator/static/js/main.9df0ba4e.chunk.js",
+    "main.js.map": "/board-game-calculator/static/js/main.9df0ba4e.chunk.js.map",
+    "runtime-main.js": "/board-game-calculator/static/js/runtime-main.0d21590e.js",
+    "runtime-main.js.map": "/board-game-calculator/static/js/runtime-main.0d21590e.js.map",
+    "static/css/2.8d06fd47.chunk.css": "/board-game-calculator/static/css/2.8d06fd47.chunk.css",
+    "static/js/2.3ecd68d0.chunk.js": "/board-game-calculator/static/js/2.3ecd68d0.chunk.js",
+    "static/js/2.3ecd68d0.chunk.js.map": "/board-game-calculator/static/js/2.3ecd68d0.chunk.js.map",
+    "index.html": "/board-game-calculator/index.html",
+    "precache-manifest.9c51550d7199303213a1d9019bbca2d8.js": "/board-game-calculator/precache-manifest.9c51550d7199303213a1d9019bbca2d8.js",
+    "service-worker.js": "/board-game-calculator/service-worker.js",
+    "static/css/2.8d06fd47.chunk.css.map": "/board-game-calculator/static/css/2.8d06fd47.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/board-game-calculator/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.3ecd68d0.chunk.js.LICENSE.txt": "/board-game-calculator/static/js/2.3ecd68d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d21590e.js",
+    "static/css/2.8d06fd47.chunk.css",
+    "static/js/2.3ecd68d0.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.9df0ba4e.chunk.js"
+  ]
+}
